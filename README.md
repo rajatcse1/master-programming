@@ -23,7 +23,7 @@
 #Behavioral design patterns
 | Name  			| Acts      			| Example   				|
 |:------------------|:----------------------|:--------------------------|
-| Chain of responsibility | A way of passing a request between a chain of objects |example here|
+| Chain of responsibility | A way of passing a request between a chain of objects |ATM money dispencer. request of 780 bucks will move all demonaration objects and pick 1x500, 2x100, 1x50, 1x20, 1x10 note.|
 | Command | Encapsulate a command request as an object |example here|
 | Interpreter | A way to include language elements in a program |example here|
 | Iterator | Sequentially access the elements of a collection |example here|
