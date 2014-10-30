@@ -1,4 +1,4 @@
-# Creational design patterns
+#Creational design patterns
 | Name  			| Acts      			| Example   				|
 |:------------------|:----------------------|:--------------------------|
 | Abstract Factory | Creates an instance of several families of classes |example here|
@@ -8,7 +8,7 @@
 | Prototype | A fully initialized instance to be copied or cloned |example here|
 | Singleton | A class of which only a single instance can exist |example here|
 
-# Structural design patterns
+#Structural design patterns
 | Name  			| Acts      			| Example   				|
 |:------------------|:----------------------|:--------------------------|
 | Adapter | Match interfaces of different classes |example here|
